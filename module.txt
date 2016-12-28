@@ -9,6 +9,8 @@
                         "minVersion" : "1.0.0"
                         "id" : "Economy"
                         "minVersion" : "0.1.0-SNAPSHOT"
-                     }],
+                        "id" : "Equipment"
+                        "minVersion" : "0.1.0-SNAPSHOT"
+                     }],
     "serverSideOnly" : false
 }
