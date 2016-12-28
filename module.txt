@@ -1,0 +1,14 @@
+{
+    "id" : "Trading",
+    "version" : "0.1.0",
+    "author" : "mdj117",
+    "displayName" : "Trading",
+    "description" : "Utility module to give the ability of trading through gold coins",
+    "dependencies" : [{
+                        "id" : "Core",
+                        "minVersion" : "1.0.0"
+                        "id" : "Economy"
+                        "minVersion" : "0.1.0-SNAPSHOT"
+                     }],
+    "serverSideOnly" : false
+}
